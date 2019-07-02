@@ -1,0 +1,15 @@
+{
+    "name": "Unity.DGTools.NeuralNetwork.Editor",
+    "references": [
+        "GUID:61c0cf724a6e92540964240f31d52c43",
+        "GUID:db3085899d18e8742b353d904a9df3ea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

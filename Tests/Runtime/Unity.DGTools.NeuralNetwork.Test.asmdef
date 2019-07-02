@@ -1,0 +1,14 @@
+{
+    "name": "Unity.DGTools.NeuralNetwork.Test",
+    "references": [
+        "GUID:db3085899d18e8742b353d904a9df3ea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

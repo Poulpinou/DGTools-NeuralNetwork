@@ -1,0 +1,15 @@
+{
+    "name": "Unity.DGTools.NeuralNetwork",
+    "references": [
+        "GUID:b1ca0d2bf199ff84bbb66f106e9fdd78",
+        "GUID:61c0cf724a6e92540964240f31d52c43"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

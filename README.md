@@ -25,4 +25,4 @@ See [Documentation](https://github.com/Poulpinou/DGTools-NeuralNetwork/Documenta
 * **Donovan Persent ([Poulpinou](https://github.com/Poulpinou))**
 
 ## Licenses
-Licences are not implemented yet;
+See [Licence](https://github.com/Poulpinou/DGTools-Core/LICENCE.md)

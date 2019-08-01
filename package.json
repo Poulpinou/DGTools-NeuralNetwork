@@ -1,11 +1,11 @@
 {
   "name": "com.dgtools.neuralnetwork",
   "displayName": "DGTools Neural Network",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Artificial Neural Network for Unity",
   "type": "tool",
   "dependencies": {
-    "com.dgtools.core": "0.0.2"
+    "com.dgtools.core": ""
   },
   "hideInEditor": false
 }

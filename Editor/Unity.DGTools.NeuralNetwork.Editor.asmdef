@@ -1,0 +1,17 @@
+{
+    "name": "Unity.DGTools.NeuralNetwork.Editor",
+    "references": [
+        "Unity.DGTools.Core.Editor",
+        "Unity.DGTools.NeuralNetwork"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
